@@ -8,11 +8,10 @@
 Còn đây là không dùng heading
 ***
 # QUOTATION
-> Line1
-> Line2
-> Line 3
-> Lê Hữu Khánh 872000
-
+Sử dụng 2 dấu space để xuống dòng giữa các Line
+> Line1  
+> Line2  
+> Line3  
 ***
 # FONTS + TẠO BẢNG
 Canh lề bằng dấu ":"
