@@ -1,3 +1,4 @@
+==================================The first time===================================
 git config --global user.email "lehuukhanh872000@gmail.com"
 git config --global user.name "lhkhanh080720"
 
@@ -6,4 +7,8 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/lhkhanh080720/GUI_Git.git
+git push -u origin main
+==================================After===================================
+git add README.md
+git commit -m "first commit"
 git push -u origin main
